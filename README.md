@@ -1,3 +1,5 @@
+#백희민, 202104363, 컴퓨터공학과
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
